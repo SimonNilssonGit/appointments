@@ -1,0 +1,26 @@
+
+.container {
+    text-align: center;
+}
+.input-container {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  background-color: #f8f9fd;
+  border-radius: 5px;
+  
+}
+.submit-btn {
+  margin: 10px;
+}
+
+.times-div {
+  width: 50%;
+  margin: auto;
+}
+@media screen and (max-width: 760px){
+  .times-div {
+    width: 80%;
+  }
+}
